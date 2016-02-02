@@ -6,5 +6,6 @@ module.exports = [
   '_bulkDocs',
   'allDocs',
   '_id',
+  '_info',
   '_getRevisionTree',
 ];
